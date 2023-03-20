@@ -6,4 +6,7 @@ public class Main {
         String name = "imran";
         int a = 1;
     }
+    public void method() {
+        System.out.println("github");
+    }
 }

@@ -11,4 +11,6 @@ public class Student {
     public String name(){
         return "imran";
     }
+    public int id(){
+        return 2;
 }

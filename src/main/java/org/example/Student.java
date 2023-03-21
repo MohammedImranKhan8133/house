@@ -5,4 +5,5 @@ public class Student {
     private String name;
     
     private float salary;
+    private double amount;
 }

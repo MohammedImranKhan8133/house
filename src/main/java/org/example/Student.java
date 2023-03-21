@@ -8,4 +8,7 @@ public class Student {
     private double amount;
     public void method(){
     }
+    public String name(){
+        return "imran";
+    }
 }

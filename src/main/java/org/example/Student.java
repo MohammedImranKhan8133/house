@@ -6,4 +6,6 @@ public class Student {
     
     private float salary;
     private double amount;
+    public void method(){
+    }
 }
